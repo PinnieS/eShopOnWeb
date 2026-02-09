@@ -9,7 +9,7 @@ env:
   LOCATION: centralus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 23daa98c-12d8-4ead-94bf-376994ba3723
-  WEBAPP-NAME: devops-webapp-centralus-2121
+  WEBAPP-NAME: devops-webapp-centralus-21
 
 jobs:
   #Build, test and publish .net web project in repository
